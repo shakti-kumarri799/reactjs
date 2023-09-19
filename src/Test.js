@@ -5,24 +5,19 @@ function Abc()
     return "welcom to react js";
 }
 export default Abc
+
 export function Abcd()
- {
-    return "this is shakti";
- }
- export function Xyz()
- {
-    return <div><h1></h1> <h2>wertyuiwertnm</h2></div>;
-    return <div><h1>heading one</h1> <h2>wertyuiwertnm</h2></div>;
- }
-//  first day//
-// export function Contactus()
-// {
-//     return(
-//         <section>
-//         <h1>heading one</h1>
-//         <h2>heading two</h2>
-//         <p>this is love</p>
-//         </section>
+{
+    return "this is name export function";
+}
+
+export function Xyz()
+{
+    return <div><h1>heading one</h1> <h2>sdfsdfhjsdhfjsdhfjh sjdhfjshd</h2></div>;    
+}
+
+
+
 //     )
 
 // }
